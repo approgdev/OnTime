@@ -1,4 +1,4 @@
-# On Time — Privacy Policy
+# On Time - Privacy Policy
 
 This repository contains the official Privacy Policy for the **On Time** mobile application.
 
